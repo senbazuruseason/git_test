@@ -1,0 +1,1 @@
+This is Rachel's first Git Project!
